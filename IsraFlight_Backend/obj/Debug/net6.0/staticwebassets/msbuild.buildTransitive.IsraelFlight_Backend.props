@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IsraelFlight_Backend.props" />
+</Project>
