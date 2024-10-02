@@ -33,7 +33,7 @@
   
 ## Service in FastAPI
 **Development in the PyCharm environment**
-Development of a service based on machine learning in FastAPI for predicting flight delays.
+- Development of a service based on machine learning in FastAPI for predicting flight delays.
 
 ## Explanation of the running of the project
 1. Run the **backend** in the Visual Studio environment
