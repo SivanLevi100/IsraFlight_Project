@@ -15,8 +15,20 @@
 
 ### Database (SQL Server - Somee.com)
   - Use of cloud services for data storage
-  
 
+## Functionality
+### Admin interface
+- ניהול מלא של טיסות: הוספה, עדכון, מחיקה
+- ניהול צי מטוסים: הוספת מטוסים חדשים, עדכון פרטים
+- צפייה בסטטיסטיקות
+
+### A frequent flyer interface
+
+- חיפוש והזמנת טיסות
+- רישום למשתמשים חדשים
+- צפייה בהיסטוריית הזמנות
+- הדפסת כרטיסי טיסה ב-PDF
+  
 
 
 ## Service in FastAPI
