@@ -4,7 +4,7 @@
 ## Architecture
 ### Backend (ASP.NET Core Web API)
 **Development in the Visual Studio environment**
-- Controllers: ניהול בקשות HTTP ותגובות
+- Controllers: HTTP ניהול בקשות
 - Models: ייצוג ישויות נתונים
 - DbContext: ניהול התקשורת עם מסד הנתונים
 
