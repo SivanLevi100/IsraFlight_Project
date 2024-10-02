@@ -1,11 +1,22 @@
 # IsraFlight_Project
-מערכת לניהול חברת תעופה, המאפשרת ניהול טיסות, מטוסים, הזמנות ולקוחות. המערכת מיועדת הן למנהלי החברה והן ללקוחות (נוסעים מתמידים).
+**מערכת לניהול חברת תעופה, המאפשרת ניהול טיסות, מטוסים, הזמנות ולקוחות. המערכת מיועדת הן למנהלי החברה והן ללקוחות**
 
 ## Architecture
-### Backend **(ASP.NET Core Web API)**
+### Backend (ASP.NET Core Web API)
+ Controllers: ניהול בקשות HTTP ותגובות
+ Models: ייצוג ישויות נתונים
+ DbContext: ניהול התקשורת עם מסד הנתונים
 
 
-## Fronted 
+### Fronted (PySide6 )
+  Models: ייצוג מבני נתונים
+  Views: ממשקי משתמש גרפיים
+  Controllers: ניהול לוגיקת הביזנס והתקשורת בין Views ל-Models
+
+### Database (SQL Server - Somee.com)
+   Use of cloud services for data storage
+  
+
 
 
 ## Service in FastAPI
