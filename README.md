@@ -1,7 +1,8 @@
 # IsraFlight_Project
 מערכת לניהול חברת תעופה, המאפשרת ניהול טיסות, מטוסים, הזמנות ולקוחות. המערכת מיועדת הן למנהלי החברה והן ללקוחות (נוסעים מתמידים).
 
-## Backend
+## Architecture
+### Backend **(ASP.NET Core Web API)**
 
 
 ## Fronted 
