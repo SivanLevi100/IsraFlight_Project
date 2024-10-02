@@ -9,7 +9,7 @@
 - DbContext: ניהול התקשורת עם מסד הנתונים
 
 
-### Fronted (PySide6 )
+### Fronted (PySide6)
 **Development in the Visual Studio Code environment**
  - Models: ייצוג מבני נתונים
  - Views: ממשקי משתמש גרפיים
