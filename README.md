@@ -43,7 +43,7 @@
   
 #### User view
 <p align="left">
-<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/User_flights.PNG" width="80%">
+<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/user_flights.PNG" width="80%">
 </p>
 
   
