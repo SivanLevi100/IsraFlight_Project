@@ -1,28 +1,29 @@
 # IsraFlight_Project
-**מערכת לניהול חברת תעופה, המאפשרת ניהול טיסות, מטוסים, הזמנות ולקוחות. המערכת מיועדת הן למנהלי החברה והן ללקוחות**
+**An airline management system that enables the management of flights, aircraft, bookings, and customers. The system is designed for both company administrators and customers.**
 
 ## Architecture
 ### Backend (ASP.NET Core Web API)
 **Development in the Visual Studio environment**
-- Controllers: HTTP ניהול בקשות
-- Models: ייצוג ישויות נתונים
-- DbContext: ניהול התקשורת עם מסד הנתונים
+- Controllers: Manage HTTP requests
+- Models: Represent data entities
+- DbContext: Handle communication with the database
 
 
 ### Fronted (PySide6)
 **Development in the Visual Studio Code environment**
- - Models: ייצוג מבני נתונים
- - Views: ממשקי משתמש גרפיים
- - Controllers: ניהול לוגיקת הביזנס והתקשורת בין Views ל-Models
+ - Models: Represent data structures
+- Views: Graphical user interfaces
+- Controllers: Handle business logic and communication between Views and Models
 
 ### Database (SQL Server - Somee.com)
   - Use of cloud services for data storage
 
 ## Functionality
 ### Admin interface
-- ניהול מלא של טיסות: הוספה, עדכון, מחיקה
-- ניהול צי מטוסים: הוספת מטוסים חדשים, עדכון פרטים
-- צפייה בסטטיסטיקות
+- Full flight management: Add, update, delete flights
+- Manage aircraft fleet: Add new planes, update details
+- View statistics
+  
 #### Admin_Deshbord
 <p align="left">
 <img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/Admin_Deshbord.PNG" width="80%">
@@ -35,11 +36,11 @@
 
 
 ### A frequent flyer interface
-
-- רישום למשתמשים חדשים
-- חיפוש והזמנת טיסות
-- צפייה בהיסטוריית הזמנות
-- הדפסת כרטיסי טיסה ב-PDF
+- New user registration
+- Search and book flights
+- View booking history
+- Print flight tickets in PDF format
+  
 #### User view
 <p align="left">
 <img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/User_flights.PNG" width="80%">
