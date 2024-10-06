@@ -25,12 +25,12 @@
 - צפייה בסטטיסטיקות
 #### Admin_Deshbord
 <p align="left">
-<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/Admin_Deshbord_israflight.png" width="80%">
+<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/Admin_Deshbord.PNG" width="80%">
 </p>
 
 #### Planes
 <p align="left">
-<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/Planes_israflight.png" width="80%">
+<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/Planes_israflight.PNG" width="80%">
 </p>
 
 
@@ -42,7 +42,7 @@
 - הדפסת כרטיסי טיסה ב-PDF
 #### User view
 <p align="left">
-<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/User_flights_israflight.png" width="80%">
+<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/User_flights.PNG" width="80%">
 </p>
 
   
