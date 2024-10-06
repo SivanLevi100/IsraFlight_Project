@@ -23,14 +23,14 @@
 - ניהול מלא של טיסות: הוספה, עדכון, מחיקה
 - ניהול צי מטוסים: הוספת מטוסים חדשים, עדכון פרטים
 - צפייה בסטטיסטיקות
-**Admin_Deshbord**
+#### Admin_Deshbord
 <p align="left">
-<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/Admin_Deshbord_israflight.png" width="60%">
+<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/Admin_Deshbord_israflight.png" width="80%">
 </p>
 
-**Planes**
+#### Planes
 <p align="left">
-<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/Planes_israflight.png" width="60%">
+<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/Planes_israflight.png" width="80%">
 </p>
 
 
@@ -40,9 +40,9 @@
 - חיפוש והזמנת טיסות
 - צפייה בהיסטוריית הזמנות
 - הדפסת כרטיסי טיסה ב-PDF
-**User view**
+#### User view
 <p align="left">
-<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/User_flights_israflight.png" width="60%">
+<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/User_flights_israflight.png" width="80%">
 </p>
 
   
