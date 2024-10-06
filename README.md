@@ -23,6 +23,16 @@
 - ניהול מלא של טיסות: הוספה, עדכון, מחיקה
 - ניהול צי מטוסים: הוספת מטוסים חדשים, עדכון פרטים
 - צפייה בסטטיסטיקות
+**Admin_Deshbord**
+<p align="middle">
+<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/Admin_Deshbord_israflight.png" width="20%">
+</p>
+
+**Planes**
+<p align="middle">
+<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/Planes_israflight.png" width="20%">
+</p>
+
 
 ### A frequent flyer interface
 
@@ -30,6 +40,11 @@
 - חיפוש והזמנת טיסות
 - צפייה בהיסטוריית הזמנות
 - הדפסת כרטיסי טיסה ב-PDF
+**User view**
+<p align="middle">
+<img src="https://github.com/SivanLevi100/IsraFlight_Project/blob/main/Images/User_flights_israflight.png" width="20%">
+</p>
+
   
 ## Service in FastAPI
 **Development in the PyCharm environment**
